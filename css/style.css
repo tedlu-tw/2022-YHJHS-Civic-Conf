@@ -749,6 +749,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: inline-block;
 }
 
+#schedule time {
+  font-weight: bold;
+}
+
 #schedule .schedule-item .speaker {
   width: 60px;
   height: 60px;
